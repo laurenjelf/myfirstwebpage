@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(255, 0, 98);
+    font-size:50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color:rgb(248, 232, 5);
+}
+
+p{
+    color: rgb(248, 232, 5);
+}
+
+h3{
+
+    color: greenyellow;
+
+}
+
+h5{
+
+    color: aqua;
+}
+a{
+    color:rgb(0, 255, 0);
+}
+.one{
+    color:blue
+}
