@@ -27,3 +27,18 @@ a{
 .one{
     color:blue
 }
+
+
+
+
+.imageone{
+
+width: 50%;
+height: 50%;
+
+}
+
+.image2{
+
+    clip-path: 20%;
+}
